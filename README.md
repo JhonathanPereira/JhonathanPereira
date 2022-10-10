@@ -1,7 +1,7 @@
 ### Olá, me chamo Jhonathan Pereira! 👋
 
 - 🎓 Formado em Licenciatura em Letras com Habilitação em Inglês e Português.
-- 👨‍🏫 Professor de Língua Portuguesa e Língua Inglesa na Rede Pública e Particular no Estado do Parana.
+- 👨‍🏫 Professor de Língua Portuguesa e Língua Inglesa na Rede Pública e Particular no Estado do Paraná.
 - 📎 Especialista em Literatura Brasileira, Literatura Infantil e Educação a Distância com Ênfase na Formação de Tutores
 - 📚 Cursando a etapa dois do curso de Pensamento Computacional 2023.
 
